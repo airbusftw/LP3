@@ -52,6 +52,8 @@ public class fractionknap {
         List <Item> items = new ArrayList<>();
         System.out.println("enter value and weight of each item: ");
 
+        // (100,20), (60,10), (100,50), (200,50)
+        
         for(int i=0; i<n; i++){
             double val = sc.nextDouble();
             double weight = sc.nextDouble();
