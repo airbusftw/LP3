@@ -52,6 +52,8 @@ public class daa3 {
             profits[i] = sc.nextInt();
         }
 
+        // (100,20), (60,10), (100,50), (200,50)
+        
         System.out.println("Enter the capacity of the bag: ");
         int W = sc.nextInt();
 
